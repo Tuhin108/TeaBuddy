@@ -2,6 +2,7 @@
 
 # 🍵 TeaBuddy
 ### *Your Personal Chai Companion*
+##https://teabuddy.streamlit.app/ 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
