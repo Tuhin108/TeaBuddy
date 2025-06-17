@@ -227,19 +227,6 @@ Edit `data/all_chai_recipes.json`:
 | **🐌 Slow Performance** | Restart server | `Ctrl+C` then `streamlit run app.py` |
 
 ---
-
-## 🤝 **Join the TeaBuddy Community**
-
-<div align="center">
-
-### *We'd love your contribution!*
-
-[![Contributors](https://img.shields.io/github/contributors/username/teabuddy?style=for-the-badge)](https://github.com/username/teabuddy/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/username/teabuddy?style=for-the-badge)](https://github.com/username/teabuddy/stargazers)
-[![Forks](https://img.shields.io/github/forks/username/teabuddy?style=for-the-badge)](https://github.com/username/teabuddy/network/members)
-
-</div>
-
 ### 🙏 **Acknowledgments**
 
 **Special Thanks To:**
@@ -266,9 +253,6 @@ streamlit run app.py
 
 ---
 
-*Made with ❤️ by the TeaBuddy Team*
-
-[![Follow](https://img.shields.io/twitter/follow/teabuddy?style=social)](https://twitter.com/teabuddy)
-[![Star](https://img.shields.io/github/stars/username/teabuddy?style=social)](https://github.com/username/teabuddy)
+*Made with ❤️ by Tuhin*
 
 </div>
