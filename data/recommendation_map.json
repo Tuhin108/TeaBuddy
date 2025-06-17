@@ -1,0 +1,22 @@
+{
+  "happy-normal": ["classic_masala_chai", "comfort_chai"],
+  "happy-cold": ["ginger_tulsi_chai"],
+  "happy-upset_stomach": ["mint_chai"],
+  "happy-low_energy": ["strong_assam_chai"],
+  "sad-normal": ["comfort_chai"],
+  "sad-cold": ["ginger_tulsi_chai"],
+  "sad-upset_stomach": ["mint_chai"],
+  "sad-low_energy": ["strong_assam_chai"],
+  "tired-normal": ["mint_chai"],
+  "tired-cold": ["ginger_tulsi_chai"],
+  "tired-upset_stomach": ["mint_chai"],
+  "tired-low_energy": ["strong_assam_chai"],
+  "stressed-normal": ["comfort_chai"],
+  "stressed-cold": ["ginger_tulsi_chai"],
+  "stressed-upset_stomach": ["mint_chai"],
+  "stressed-low_energy": ["strong_assam_chai"],
+  "creative-normal": ["classic_masala_chai"],
+  "creative-cold": ["ginger_tulsi_chai"],
+  "creative-upset_stomach": ["mint_chai"],
+  "creative-low_energy": ["strong_assam_chai"]
+}

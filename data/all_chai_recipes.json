@@ -1,0 +1,2069 @@
+{
+  "classic_masala_chai": {
+    "name": {
+      "en": "Classic Masala Chai",
+      "hi": "क्लासिक मसाला चाय",
+      "bn": "ক্লাসিক মসলা চা"
+    },
+    "description": {
+      "en": "The traditional Indian spiced tea with a perfect blend of aromatic spices",
+      "hi": "सुगंधित मसालों के साथ पारंपरिक भारतीय मसाला चाय",
+      "bn": "সুগন্ধি মসলার সাথে ঐতিহ্যবাহী ভারতীয় মসলা চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup whole milk",
+      "2 tsp black tea leaves",
+      "4-5 green cardamom pods",
+      "1 inch cinnamon stick",
+      "4-5 black peppercorns",
+      "3-4 cloves",
+      "1 inch fresh ginger",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush the cardamom, cinnamon, peppercorns, and cloves lightly",
+          "hi": "इलायची, दालचीनी, काली मिर्च और लौंग को हल्का कुचलें",
+          "bn": "এলাচ, দারুচিনি, গোল মরিচ এবং লবঙ্গ হালকা করে থেঁতো করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with crushed spices and grated ginger",
+          "hi": "कुचले हुए मसाले और कद्दूकस किए हुए अदरक के साथ पानी उबालें",
+          "bn": "থেঁতো মসলা এবং কুচানো আদা দিয়ে পানি ফুটান"
+        },
+        "duration": 300,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and simmer for 2-3 minutes",
+          "hi": "चाय पत्ती डालें और 2-3 मिनट तक उबालें",
+          "bn": "চা পাতা যোগ করুন এবং ২-৩ মিনিট জ্বাল দিন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and bring to a boil, then simmer",
+          "hi": "दूध डालें और उबाल आने दें, फिर धीमी आंच पर पकाएं",
+          "bn": "দুধ যোগ করুন এবং ফুটিয়ে নিন, তারপর কম আঁচে রাখুন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add sugar, stir well and strain before serving",
+          "hi": "चीनी डालें, अच्छी तरह मिलाएं और परोसने से पहले छान लें",
+          "bn": "চিনি যোগ করুন, ভালো করে মিশিয়ে পরিবেশনের আগে ছেঁকে নিন"
+        },
+        "duration": 120,
+        "heat": "low"
+      }
+    ],
+    "total_time": 900
+  },
+  "ginger_tulsi_chai": {
+    "name": {
+      "en": "Ginger Tulsi Healing Chai",
+      "hi": "अदरक तुलसी उपचारक चाय",
+      "bn": "আদা তুলসী নিরাময়কারী চা"
+    },
+    "description": {
+      "en": "Healing chai with fresh ginger and holy basil, perfect for cold and immunity",
+      "hi": "ताजा अदरक और तुलसी के साथ उपचारक चाय, सर्दी और प्रतिरक्षा के लिए बेहतरीन",
+      "bn": "তাজা আদা এবং তুলসী দিয়ে নিরাময়কারী চা, সর্দি এবং রোগ প্রতিরোধের জন্য উপযুক্ত"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "2 inch fresh ginger",
+      "8-10 fresh tulsi leaves",
+      "4 green cardamom",
+      "1 tsp honey",
+      "Pinch of black pepper"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush ginger and tulsi leaves together",
+          "hi": "अदरक और तुलसी के पत्तों को एक साथ कुचलें",
+          "bn": "আদা এবং তুলসী পাতা একসাথে থেঁতো করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with ginger, tulsi, and cardamom",
+          "hi": "अदरक, तुलसी और इलायची के साथ पानी उबालें",
+          "bn": "আদা, তুলসী এবং এলাচ দিয়ে পানি ফুটান"
+        },
+        "duration": 360,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and steep for 3 minutes",
+          "hi": "चाय पत्ती डालें और 3 मिनट तक भिगोएं",
+          "bn": "চা পাতা যোগ করুন এবং ৩ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer until frothy",
+          "hi": "दूध डालें और झाग आने तक उबालें",
+          "bn": "দুধ যোগ করুন এবং ফেনা না হওয়া পর্যন্ত জ্বাল দিন"
+        },
+        "duration": 300,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Strain, add honey and black pepper, serve hot",
+          "hi": "छान लें, शहद और काली मिर्च डालें, गर्म परोसें",
+          "bn": "ছেঁকে নিন, মধু এবং গোল মরিচ যোগ করুন, গরম পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 1020
+  },
+  "cardamom_chai": {
+    "name": {
+      "en": "Aromatic Cardamom Chai",
+      "hi": "सुगंधित इलायची चाय",
+      "bn": "সুগন্ধি এলাচ চা"
+    },
+    "description": {
+      "en": "Delicate and fragrant chai dominated by the sweet aroma of cardamom",
+      "hi": "इलायची की मीठी सुगंध से भरपूर नाजुक और सुगंधित चाय",
+      "bn": "এলাচের মিষ্টি সুগন্ধে ভরপুর সূক্ষ্ম এবং সুগন্ধি চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp tea leaves",
+      "8-10 green cardamom pods",
+      "1 inch ginger",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Lightly crush cardamom pods to release aroma",
+          "hi": "सुगंध निकालने के लिए इल��यची को हल्का कुचलें",
+          "bn": "সুগন্ধ বের করার জন্য এলাচ হালকা করে থেঁতো করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with cardamom and ginger",
+          "hi": "इलायची और अदरक के साथ पानी उबालें",
+          "bn": "এলাচ এবং আদা দিয়ে পানি ফুটান"
+        },
+        "duration": 240,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and brew for 2 minutes",
+          "hi": "चाय पत्ती डालें और 2 मिनट तक पकाएं",
+          "bn": "চা পাতা যোগ করুন এবং ২ মিনিট রান্না করুন"
+        },
+        "duration": 120,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Pour in milk and bring to gentle boil",
+          "hi": "दूध डालें और धीरे से उबाल लाएं",
+          "bn": "দুধ ঢালুন এবং আস্তে আস্তে ফুটিয়ে নিন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten to taste, strain and serve immediately",
+          "hi": "स्वाद के अनुसार मिठास डालें, छान लें और तुरंत परोसें",
+          "bn": "স্বাদমতো মিষ্টি করুন, ছেঁকে নিন এবং তৎক্ষণাৎ পরিবেশন করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      }
+    ],
+    "total_time": 660
+  },
+  "mint_chai": {
+    "name": {
+      "en": "Refreshing Mint Chai",
+      "hi": "ताज़ा पुदीना चाय",
+      "bn": "সতেজ পুদিনা চা"
+    },
+    "description": {
+      "en": "Cool and soothing chai with fresh mint leaves, great for digestion",
+      "hi": "ताजा पुदीने के पत्तों के साथ ठंडी और आरामदायक चाय, पाचन के लिए बेहतरीन",
+      "bn": "তাজা পুদিনা পাতা দিয়ে শীতল এবং প্রশান্তিদায়ক চা, হজমের জন্য দুর্দান্ত"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "15-20 fresh mint leaves",
+      "1 inch ginger",
+      "2 green cardamom",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Wash and roughly chop mint leaves",
+          "hi": "पुदीने के पत्तों को धोकर मोटा काट लें",
+          "bn": "পুদিনা পাতা ধুয়ে মোটা করে কেটে নিন"
+        },
+        "duration": 90,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with ginger and cardamom",
+          "hi": "अदरक और इलायची के साथ पानी उबालें",
+          "bn": "আদা এবং এলাচ দিয়ে পানি ফুটান"
+        },
+        "duration": 180,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and mint, steep for 3 minutes",
+          "hi": "चाय पत्ती और पुदीना डालें, 3 मिनट तक भिगोएं",
+          "bn": "চা পাতা এবং পুদিনা যোগ করুন, ৩ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer gently",
+          "hi": "दूध डालें और धीरे से उबालें",
+          "bn": "দুধ যোগ করুন এবং আস্তে আস্তে জ্বাল দিন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten, strain pressing mint leaves, serve",
+          "hi": "मिठास डालें, पुदीने के पत्तों को दबाकर छान लें, परोसें",
+          "bn": "মিষ্টি করুন, পুদিনা পাতা চেপে ছেঁকে নিন, পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 780
+  },
+  "strong_assam_chai": {
+    "name": {
+      "en": "Strong Assam Chai",
+      "hi": "मजबूत असम चाय",
+      "bn": "শক্তিশালী আসাম চা"
+    },
+    "description": {
+      "en": "Bold and robust chai made with premium Assam tea for an energy boost",
+      "hi": "ऊर्जा बढ़ाने के लिए प्रीमियम असम चाय से बनी बोल्ड और मजबूत चाय",
+      "bn": "শক্তি বৃদ্ধির জন্য প্রিমিয়াম আসাম চা দিয়ে তৈরি সাহসী এবং শক্তিশালী চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "3 tsp Assam tea leaves",
+      "1 inch ginger",
+      "3 green cardamom",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush ginger and cardamom pods",
+          "hi": "अदरक और इलायची को कुचलें",
+          "bn": "আদা এবং এলাচ থেঁতো করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water vigorously with spices",
+          "hi": "मसालों के साथ पानी को जोर से उबालें",
+          "bn": "মসলা দিয়ে পানি জোরে ফুটান"
+        },
+        "duration": 300,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add Assam tea leaves and brew strongly for 4 minutes",
+          "hi": "असम चाय पत्ती डालें और 4 मिनट तक मजबूत बनाएं",
+          "bn": "আসাম চা পাতা যোগ করুন এবং ৪ মিনিট শক্তিশালী করে তৈরি করুন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and boil until rich and creamy",
+          "hi": "दूध डालें और तब तक उबालें जब तक यह गाढ़ा और मलाईदार न हो जाए",
+          "bn": "দুধ যোগ করুন এবং ঘন এবং ক্রিমি না হওয়া পর্যন্ত ফুটান"
+        },
+        "duration": 360,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten well, strain and serve piping hot",
+          "hi": "अच्छी तरह मिठास डालें, छान लें और गर्म-गर्म परोसें",
+          "bn": "ভালো করে মিষ্টি করুন, ছেঁকে নিন এবং গরম গরম পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 1050
+  },
+  "comfort_chai": {
+    "name": {
+      "en": "Comfort Vanilla Chai",
+      "hi": "आरामदायक वनीला चाय",
+      "bn": "আরামদায়ক ভ্যানিলা চা"
+    },
+    "description": {
+      "en": "Soothing and comforting chai with warm vanilla notes to lift your spirits",
+      "hi": "आपके मन को खुश करने के लिए गर्म वनीला नोट्स के साथ आरामदायक चाय",
+      "bn": "আপনার মন ভালো করার জন্য উষ্ণ ভ্যানিলা নোট সহ প্রশান্তিদায়ক চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "1 tsp vanilla extract",
+      "4 green cardamom",
+      "1 cinnamon stick",
+      "2 tbsp brown sugar"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Lightly crush cardamom and break cinnamon stick",
+          "hi": "इलायची को हल्का कुचलें और दालचीनी की छड़ी तोड़ें",
+          "bn": "এলাচ হালকা থেঁতো করুন এবং দারুচিনি ভেঙে নিন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Simmer water with cardamom and cinnamon",
+          "hi": "इलायची और दालचीनी के साथ पानी को धीरे से उबालें",
+          "bn": "এলাচ এবং দারুচিনি দিয়ে পানি আস্তে আস্তে ফুটান"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and steep gently for 3 minutes",
+          "hi": "चाय पत्ती डालें और 3 मिनट तक धीरे से भिगोएं",
+          "bn": "চা পাতা যোগ করুন এবং ৩ মিনিট আস্তে আস্তে ভিজিয়ে রাখুন"
+        },
+        "duration": 180,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Pour in milk and warm through without boiling",
+          "hi": "दूध डालें और बिना उबाले गर्म करें",
+          "bn": "দুধ ঢালুন এবং না ফুটিয়ে গরম করুন"
+        },
+        "duration": 180,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Stir in vanilla and brown sugar, strain and serve",
+          "hi": "वनीला और ब्राउन शुगर मिलाएं, छान लें और परोसें",
+          "bn": "ভ্যানিলা এবং ব্রাউন সুগার মিশিয়ে দিন, ছেঁকে নিন এবং পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 750
+  },
+  "rose_chai": {
+    "name": {
+      "en": "Fragrant Rose Chai",
+      "hi": "सुगंधित गुलाब चाय",
+      "bn": "সুগন্ধি গোলাপ চা"
+    },
+    "description": {
+      "en": "Delicate floral chai with rose petals for a romantic and uplifting experience",
+      "hi": "रोमांटिक और उत्साहजनक अनुभव के लिए गुलाब की पंखुड़ियों के साथ नाजुक फूलों वाली चाय",
+      "bn": "রোমান্টিক এবং উৎসাহব্যঞ্জক অভিজ্ঞতার জন্য গোলাপের পাপড়ি সহ সূক্ষ্ম ফুলের চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "1 tbsp dried rose petals",
+      "4 green cardamom",
+      "1 tsp rose water",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Gently rinse rose petals and crush cardamom",
+          "hi": "गुलाब की पंखुड़ियों को धीरे से धोएं और इलायची कुचलें",
+          "bn": "গোলাপের পাপড়ি আস্তে ধুয়ে নিন এবং এলাচ থেঁতো করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Simmer water with cardamom and rose petals",
+          "hi": "इलायची और गुलाब की पंखुड़ियों के साथ पानी को धीरे से उबालें",
+          "bn": "এলাচ এবং গোলাপের পাপড়ি দিয়ে পানি আস্তে ফুটান"
+        },
+        "duration": 300,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and brew delicately for 2 minutes",
+          "hi": "चाय पत्ती डालें और 2 मिनट तक नाजुकता से बनाएं",
+          "bn": "চা পাতা যোগ করুন এবং ২ মিনিট সূক্ষ্মভাবে তৈরি করুন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and heat gently without vigorous boiling",
+          "hi": "दूध डालें और जोर से उबाले बिना धीरे से गर्म करें",
+          "bn": "দুধ যোগ করুন এবং জোরে না ফুটিয়ে আস্তে গরম করুন"
+        },
+        "duration": 240,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Add rose water and sugar, strain carefully and serve",
+          "hi": "गुलाब जल और चीनी डालें, सावधानी से छान लें और परोसें",
+          "bn": "গোলাপ জল এবং চিনি যোগ করুন, সাবধানে ছেঁকে নিন এবং পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 840
+  },
+  "honey_ginger_chai": {
+    "name": {
+      "en": "Honey Ginger Healing Chai",
+      "hi": "शहद अदरक उपचारक चाय",
+      "bn": "মধু আদা নিরাময়কারী চা"
+    },
+    "description": {
+      "en": "Therapeutic chai with fresh ginger and honey, perfect for cold and sore throat",
+      "hi": "ताजा अदरक और शहद के साथ चिकित्सीय चाय, सर्दी और गले की खराश के लिए बेहतरीन",
+      "bn": "তাজা আদা এবং মধু দিয়ে চিকিৎসামূলক চা, সর্দি এবং গলা ব্যথার জন্য উপযুক্ত"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "3 inch fresh ginger",
+      "2 tbsp honey",
+      "1 lemon slice",
+      "Pinch of turmeric"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Slice ginger thinly for maximum flavor extraction",
+          "hi": "अधिकतम स्वाद निकालने के लिए अदरक को पतला काटें",
+          "bn": "সর্বোচ্চ স্বাদ বের করার জন্য আদা পাতলা করে কাটুন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with ginger slices vigorously",
+          "hi": "अदरक के टुकड़ों के साथ पानी को जोर से उबालें",
+          "bn": "আদার টুকরো দিয়ে পানি জোরে ফুটান"
+        },
+        "duration": 420,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and turmeric, steep for 3 minutes",
+          "hi": "चाय पत्ती और हल्दी डालें, 3 मिनट तक भिगोएं",
+          "bn": "চা পাতা এবং হলুদ যোগ করুন, ৩ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer until well combined",
+          "hi": "दूध डालें और तब तक उबालें जब तक अच्छी तरह मिल न जाए",
+          "bn": "দুধ যোগ করুন এবং ভালোভাবে মিশে না যাওয়া পর্যন্ত জ্বাল দিন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Strain, add honey and lemon, stir gently and serve hot",
+          "hi": "छान लें, शहद और नींबू डालें, धीरे से मिलाएं और गर्म परोसें",
+          "bn": "ছেঁকে নিন, মধু এবং লেবু যোগ করুন, আস্তে মিশিয়ে গরম পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 1050
+  },
+  "turmeric_chai": {
+    "name": {
+      "en": "Golden Turmeric Chai",
+      "hi": "सुनहरी हल्दी चाय",
+      "bn": "সোনালী হলুদ চা"
+    },
+    "description": {
+      "en": "Anti-inflammatory golden chai with turmeric and warming spices for immunity",
+      "hi": "प्रतिरक्षा के लिए हल्दी और गर्म मसालों के साथ सूजन-रोधी सुनहरी चाय",
+      "bn": "রোগ প্রতিরোধের জন্য হলুদ এবং উষ্ণ মসলা দিয়ে প্রদাহ-বিরোধী সোনালী চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "1 tsp turmeric powder",
+      "1 inch ginger",
+      "4 green cardamom",
+      "1 cinnamon stick",
+      "Pinch of black pepper",
+      "Honey to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush ginger, cardamom and cinnamon together",
+          "hi": "अदरक, इलायची और दालचीनी को एक साथ कुचलें",
+          "bn": "আদা, এলাচ এবং দারুচিনি একসাথে থেঁতো করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with all spices and turmeric",
+          "hi": "सभी मसालों और हल्दी के साथ पानी उबालें",
+          "bn": "সব মসলা এবং হলুদ দিয়ে পানি ফুটান"
+        },
+        "duration": 360,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and black pepper, brew for 3 minutes",
+          "hi": "चाय पत्ती और काली मिर्च डालें, 3 मिनट तक बनाएं",
+          "bn": "চা পাতা এবং গোল মরিচ যোগ করুন, ৩ মিনিট তৈরি করুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Pour in milk and simmer until golden and frothy",
+          "hi": "दूध डालें और तब तक उबालें जब तक सुनहरा और झागदार न हो जाए",
+          "bn": "দুধ ঢালুন এবং সোনালী এবং ফেনাযুক্ত না হওয়া পর্যন্ত জ্বাল দিন"
+        },
+        "duration": 300,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Strain well, sweeten with honey and serve immediately",
+          "hi": "अच्छी तरह छान लें, शहद से मिठास डालें और तुरंत परोसें",
+          "bn": "ভালো করে ছেঁকে নিন, মধু দিয়ে মিষ্টি করুন এবং তৎক্ষণাৎ পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 1020
+  },
+  "fennel_chai": {
+    "name": {
+      "en": "Digestive Fennel Chai",
+      "hi": "पाचक सौंफ चाय",
+      "bn": "হজমকারী মৌরি চা"
+    },
+    "description": {
+      "en": "Soothing chai with fennel seeds to aid digestion and calm the stomach",
+      "hi": "पाचन में सहायता और पेट को शांत करने के लिए सौंफ के बीज के साथ आरामदायक चाय",
+      "bn": "হজমে সাহায্য এবং পেট শান্ত করার জন্য মৌরি বীজ দিয়ে প্রশান্তিদায়ক চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "1 tsp fennel seeds",
+      "1 inch ginger",
+      "3 green cardamom",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Lightly roast fennel seeds until fragrant",
+          "hi": "सौंफ के बीजों को सुगंधित होने तक हल्का भूनें",
+          "bn": "মৌরি বীজ সুগন্ধি না হওয়া পর্যন্ত হালকা ভাজুন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Crush roasted fennel with ginger and cardamom",
+          "hi": "भुनी हुई सौंफ को अदरक और इलायची के साथ कुचलें",
+          "bn": "ভাজা মৌরি আদা এবং এলাচ দিয়ে থেঁতো করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with the crushed spice mixture",
+          "hi": "कुचले हुए मसाले के मिश्रण के साथ पानी उबालें",
+          "bn": "থেঁতো মসলার মিশ্রণ দিয়ে পানি ফুটান"
+        },
+        "duration": 300,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and steep for 2-3 minutes",
+          "hi": "चाय पत्ती डालें और 2-3 मिनट तक भिगोएं",
+          "bn": "চা পাতা যোগ করুন এবং ২-৩ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 150,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk, simmer gently and sweeten before serving",
+          "hi": "दूध डालें, धीरे से उबालें और परोसने से पहले मिठास डालें",
+          "bn": "দুধ যোগ করুন, আস্তে জ্বাল দিন এবং পরিবেশনের আগে মিষ্টি করুন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      }
+    ],
+    "total_time": 870
+  },
+  "ginger_chai": {
+    "name": {
+      "en": "Pure Ginger Chai",
+      "hi": "शुद्ध अदरक चाय",
+      "bn": "খাঁটি আদা চা"
+    },
+    "description": {
+      "en": "Simple and powerful ginger chai for stomach comfort and warmth",
+      "hi": "पेट की आराम और गर्माहट के लिए सरल और शक्तिशाली अदरक चाय",
+      "bn": "পেটের আরাম এবং উষ্ণতার জন্য সরল এবং শক্তিশালী আদা চা"
+    },
+    "ingredients": ["2 cups water", "1 cup milk", "2 tsp black tea", "2 inch fresh ginger", "Sugar to taste"],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Pound fresh ginger to release maximum flavor",
+          "hi": "अधिकतम स्वाद निकालने के लिए ताजा अदरक को कूटें",
+          "bn": "সর্বোচ্চ স্বাদ বের করার জন্য তাজা আদা পিষুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with pounded ginger for 5 minutes",
+          "hi": "कूटे हुए अदरक के साथ 5 मिनट तक पानी उबालें",
+          "bn": "পেষা আদা দিয়ে ৫ মিনিট পানি ফুটান"
+        },
+        "duration": 300,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and brew strongly",
+          "hi": "चाय पत्ती डालें और मजबूत बनाएं",
+          "bn": "চা পাতা যোগ করুন এবং শক্তিশালী করে তৈরি করুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Pour in milk and boil until well blended",
+          "hi": "दूध डालें और तब तक उबालें जब तक अच्छी तरह मिल न जाए",
+          "bn": "দুধ ঢালুন এবং ভালোভাবে মিশে না যাওয়া পর্যন্ত ফুটান"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten to taste, strain and serve hot",
+          "hi": "स्वाद के अनुसार मिठास डालें, छान लें और गर्म परोसें",
+          "bn": "স্বাদমতো মিষ্টি করুন, ছেঁকে নিন এবং গরম পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 900
+  },
+  "chocolate_chai": {
+    "name": {
+      "en": "Indulgent Chocolate Chai",
+      "hi": "लाजवाब चॉकलेट चाय",
+      "bn": "আনন্দদায়ক চকলেট চা"
+    },
+    "description": {
+      "en": "Rich and decadent chai with cocoa and spices for a mood-lifting treat",
+      "hi": "मूड बेहतर बनाने के लिए कोको और मसालों के साथ समृद्ध और स्वादिष्ट चाय",
+      "bn": "মুড ভালো করার জন্য কোকো এবং মসলা দিয়ে সমৃদ্ধ এবং সুস্বাদু চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "2 tbsp cocoa powder",
+      "4 green cardamom",
+      "1 cinnamon stick",
+      "2 tbsp brown sugar",
+      "1 tsp vanilla extract"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush cardamom and break cinnamon stick",
+          "hi": "इलायची कुचलें और दालचीनी की छड़ी तोड़ें",
+          "bn": "এলাচ থেঁতো করুন এবং দারুচিনি ভেঙে নিন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with spices for aromatic base",
+          "hi": "सुगंधित आधार के लिए मसालों के साथ पानी उबालें",
+          "bn": "সুগন্ধি ভিত্তির জন্য মসলা দিয়ে পানি ফুটান"
+        },
+        "duration": 240,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and cocoa powder, mix well",
+          "hi": "चाय पत्ती और कोको पाउडर डालें, अच्छी तरह मिलाएं",
+          "bn": "চা পাতা এবং কোকো পাউডার যোগ করুন, ভালো করে মিশিয়ে নিন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Pour in milk and simmer until rich and chocolatey",
+          "hi": "दूध डालें और तब तक उबालें जब तक समृद्ध और चॉकलेटी न हो जाए",
+          "bn": "দুধ ঢালুন এবং সমৃদ্ধ এবং চকলেটি না হওয়া পর্যন্ত জ্বাল দিন"
+        },
+        "duration": 300,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Stir in brown sugar and vanilla, strain and serve",
+          "hi": "ब्राउन शुगर और वनीला मिलाएं, छान लें और परोसें",
+          "bn": "ব্র্যাউন সুগার এবং ভ্যানিলা মিশিয়ে দিন, ছেঁকে নিন এবং পরিবেশন করুন"
+        },
+        "duration": 120,
+        "heat": "low"
+      }
+    ],
+    "total_time": 900
+  },
+  "coffee_chai": {
+    "name": {
+      "en": "Energizing Coffee Chai",
+      "hi": "ऊर्जावान कॉफी चाय",
+      "bn": "শক্তিদায়ক কফি চা"
+    },
+    "description": {
+      "en": "Powerful fusion of chai and coffee for maximum energy boost",
+      "hi": "अधिकतम ऊर्जा बढ़ाने के लिए चाय और कॉफी का शक्तिशाली मिश्रण",
+      "bn": "সর্বোচ্চ শক্তি বৃদ্ধির জন্য চা এবং কফির শক্তিশালী মিশ্রণ"
+    },
+    "ingredients": [
+      "1 cup water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "1 tsp instant coffee",
+      "1 inch ginger",
+      "3 green cardamom",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush ginger and cardamom together",
+          "hi": "अदरक और इलायची को एक साथ कुचलें",
+          "bn": "আদা এবং এলাচ একসাথে থেঁতো করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with crushed spices vigorously",
+          "hi": "कुचले हुए मसालों के साथ पानी को जोर से उबालें",
+          "bn": "থেঁতো মসলা দিয়ে পানি জোরে ফুটান"
+        },
+        "duration": 240,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and instant coffee, brew for 3 minutes",
+          "hi": "चाय पत्ती और इंस्टेंट कॉफी डालें, 3 मिनट तक बनाएं",
+          "bn": "চা পাতা এবং ইনস্ট্যান্ট কফি যোগ করুন, ৩ মিনিট তৈরি করুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and bring to a rolling boil",
+          "hi": "दूध डालें और अच्छी तरह उबालें",
+          "bn": "দুধ যোগ করুন এবং ভালো করে ফুটিয়ে নিন"
+        },
+        "duration": 300,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten to taste, strain and serve piping hot",
+          "hi": "स्वाद के अनुसार मिठास डालें, छान लें और गर्म-गर्म परोसें",
+          "bn": "স্বাদমতো মিষ্টি করুন, ছেঁকে নিন এবং গরম গরম পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 870
+  },
+  "vanilla_chai": {
+    "name": {
+      "en": "Smooth Vanilla Chai",
+      "hi": "मुलायम वनीला चाय",
+      "bn": "মসৃণ ভ্যানিলা চা"
+    },
+    "description": {
+      "en": "Creamy and smooth chai with vanilla notes for a comforting experience",
+      "hi": "आरामदायक अनुभव के लिए वनीला नोट्स के साथ क्रीमी और मुलायम चाय",
+      "bn": "আরামদায়ক অভিজ্ঞতার জন্য ভ্যানিলা নোট সহ ক্রিমি এবং মসৃণ চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "1 vanilla bean or 1 tsp extract",
+      "3 green cardamom",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Split vanilla bean and scrape seeds (or prepare extract)",
+          "hi": "वनीला बीन को काटें और बीज निकालें (या एक्सट्रैक्ट तैयार करें)",
+          "bn": "ভ্যানিলা বীন কেটে বীজ বের করুন (অথবা এক্সট্রাক্ট প্রস্তুত করুন)"
+        },
+        "duration": 90,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Simmer water with cardamom and vanilla bean",
+          "hi": "इलायची और वनीला बीन के साथ पानी को धीरे से उबालें",
+          "bn": "এলাচ এবং ভ্যানিলা বীন দিয়ে পানি আস্তে ফুটান"
+        },
+        "duration": 300,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and brew gently for 3 minutes",
+          "hi": "चाय पत्ती डालें और 3 मिनट तक धीरे से बनाएं",
+          "bn": "চা পাতা যোগ করুন এবং ৩ মিনিট আস্তে তৈরি করুন"
+        },
+        "duration": 180,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and warm through (if using extract, add now)",
+          "hi": "दूध डालें और गर्म करें (अगर एक्सट्रैक्ट का उपयोग कर रहे हैं, तो अब डालें)",
+          "bn": "দুধ যোগ করুন এবং গরম করুন (যদি এক্সট্রাক্ট ব্যবহার করেন, তবে এখন যোগ করুন)"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten to taste, strain and serve",
+          "hi": "स्वाद के अनुसार मिठास डालें, छान लें और परोसें",
+          "bn": "স्বাদমতো মিষ্টি করুন, ছেঁকে নিন এবং পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 900
+  },
+  "cinnamon_chai": {
+    "name": {
+      "en": "Warming Cinnamon Chai",
+      "hi": "गर्म दालचीनी चाय",
+      "bn": "উষ্ণ দারুচিনি চা"
+    },
+    "description": {
+      "en": "Cozy chai with prominent cinnamon flavor for cold days and comfort",
+      "hi": "ठंडे दिनों और आराम के लिए प्रमुख दालचीनी स्वाद के साथ आरामदायक चाय",
+      "bn": "ঠান্ডা দিন এবং আরামের জন্য প্রধান দারুচিনি স্বাদযুক্ত আরামদায়ক চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "2 cinnamon sticks",
+      "3 green cardamom",
+      "1 star anise",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Break cinnamon sticks into smaller pieces",
+          "hi": "दालचीनी की छड़ियों को छोटे टुकड़ों में तोड़ें",
+          "bn": "দারুচিনি ছোট টুকরো করে ভেঙে নিন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with cinnamon, cardamom and star anise",
+          "hi": "दालचीनी, इलायची और चक्र फूल के साथ पानी उबालें",
+          "bn": "দারুচিনি, এলাচ এবং চক্র ফুল দিয়ে পানি ফুটান"
+        },
+        "duration": 360,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and steep for 3 minutes",
+          "hi": "चाय पत्ती डालें और 3 मिनट तक भिगोएं",
+          "bn": "চা পাতা যোগ করুন এবং ৩ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer until well infused",
+          "hi": "दूध डालें और अच्छी तरह मिलने तक उबालें",
+          "bn": "দুধ যোগ করুন এবং ভালোভাবে মিশে না যাওয়া পর্যন্ত জ্বাল দিন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten to taste, strain and serve hot",
+          "hi": "स्वाद के अनुसार मिठास डालें, छान लें और गर्म परोसें",
+          "bn": "স্বাদমতো মিষ্টি করুন, ছেঁকে নিন এবং গরম পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 930
+  },
+  "healing_chai": {
+    "name": {
+      "en": "Healing Spice Chai",
+      "hi": "उपचारक मसाला चाय",
+      "bn": "নিরাময়কারী মসলা চা"
+    },
+    "description": {
+      "en": "Therapeutic chai with healing spices for cold and flu relief",
+      "hi": "सर्दी और फ्लू से राहत के लिए उपचारक मसालों के साथ चिकित्सीय चाय",
+      "bn": "সর্দি এবং ফ্লু থেকে উপশম পাওয়ার জন্য নিরাময়কারী মসলা দিয়ে চিকিৎসামূলক চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "2 inch ginger",
+      "5 black peppercorns",
+      "4 cloves",
+      "1 cinnamon stick",
+      "4 green cardamom",
+      "1/2 tsp turmeric",
+      "Honey to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush all spices together for maximum potency",
+          "hi": "अधिकतम शक्ति के लिए सभी मसालों को एक साथ कुचलें",
+          "bn": "সর্বোচ্চ শক্তির জন্য সব মসলা একসাথে থেঁতো করুন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with all spices and turmeric",
+          "hi": "सभी मसालों और हल्दी के साथ पानी उबालें",
+          "bn": "সব মসলা এবং হলুদ দিয়ে পানি ফুটান"
+        },
+        "duration": 420,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Reduce heat, add tea leaves and simmer for 3 minutes",
+          "hi": "आंच कम करें, चाय पत्ती डालें और 3 मिनट तक उबालें",
+          "bn": "আঁচ কমিয়ে, চা পাতা যোগ করুন এবং ৩ মিনিট জ্বাল দিন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer until well combined",
+          "hi": "दूध डालें और अच्छी तरह मिलने तक उबालें",
+          "bn": "দুধ যোগ করুন এবং ভালোভাবে মিশে না যাওয়া পর্যন্ত জ্বাল দিন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Strain, add honey and sip slowly while hot",
+          "hi": "छान लें, शहद डालें और गर्म रहते धीरे-धीरे पिएं",
+          "bn": "ছেঁকে নিন, মধু যোগ করুন এবং গরম থাকতে আস্তে আস্তে পান করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 1050
+  },
+  "lemon_ginger_chai": {
+    "name": {
+      "en": "Lemon Ginger Chai",
+      "hi": "नींबू अदरक चाय",
+      "bn": "লেবু আদা চা"
+    },
+    "description": {
+      "en": "Refreshing and healing chai with lemon and ginger for cold relief",
+      "hi": "सर्दी से राहत के लिए नींबू और अदरक के साथ ताज़ा और उपचारक चाय",
+      "bn": "সর্দি থেকে উপশম পাওয়ার জন্য লেবু এবং আদা দিয়ে সতেজ এবং নিরাময়কারী চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1/2 cup milk (optional)",
+      "2 tsp black tea",
+      "2 inch fresh ginger",
+      "1 lemon",
+      "Honey to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Grate ginger and squeeze half a lemon",
+          "hi": "अदरक कद्दूकस करें और आधा नींबू निचोड़ें",
+          "bn": "আদা কুচিয়ে নিন এবং অর্ধেক লেবু নিংড়ে নিন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with grated ginger",
+          "hi": "कद्दूकस किए हुए अदरक के साथ पानी उबालें",
+          "bn": "কুচানো আদা দিয়ে পানি ফুটান"
+        },
+        "duration": 360,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and brew for 3 minutes",
+          "hi": "चाय पत्ती डालें और 3 मिनट तक बनाएं",
+          "bn": "চা পাতা যোগ করুন এবং ৩ মিনিট তৈরি করুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk if using, simmer briefly",
+          "hi": "अगर उपयोग कर रहे हैं तो दूध डालें, थोड़ी देर उबालें",
+          "bn": "যদি ব্যবহার করেন তবে দুধ যোগ করুন, সংক্ষিপ্তভাবে জ্বাল দিন"
+        },
+        "duration": 120,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Strain, add lemon juice and honey, stir and serve",
+          "hi": "छान लें, नींबू का रस और शहद डालें, मिलाएं और परोसें",
+          "bn": "ছেঁকে নিন, লেবুর রস এবং মধু যোগ করুন, মিশিয়ে পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 870
+  },
+  "eucalyptus_chai": {
+    "name": {
+      "en": "Eucalyptus Breathing Chai",
+      "hi": "यूकेलिप्टस श्वास चाय",
+      "bn": "ইউক্যালিপটাস শ্বাস চা"
+    },
+    "description": {
+      "en": "Respiratory relief chai with eucalyptus and spices for clear breathing",
+      "hi": "साफ सांस के लिए यूकेलिप्टस और मसालों के साथ श्वसन राहत चाय",
+      "bn": "পরিষ্কার শ্বাসের জন্য ইউক্যালিপটাস এবং মসলা দিয়ে শ্বাসযন্ত্রের উপশম চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1/2 cup milk",
+      "2 tsp black tea",
+      "2-3 eucalyptus leaves (or 1 drop food-grade oil)",
+      "1 inch ginger",
+      "3 green cardamom",
+      "1 cinnamon stick",
+      "Honey to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush spices and tear eucalyptus leaves",
+          "hi": "मसालों को कुचलें और यूकेलिप्टस के पत्तों को फाड़ें",
+          "bn": "মসলা থেঁতো করুন এবং ইউক্যালিপটাস পাতা ছিঁড়ে নিন"
+        },
+        "duration": 90,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with spices and eucalyptus",
+          "hi": "मसालों और यूकेलिप्टस के साथ पानी उबालें",
+          "bn": "মসলা এবং ইউক্যালিপটাস দিয়ে পানি ফুটান"
+        },
+        "duration": 360,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and steep for 3 minutes",
+          "hi": "चाय पत्ती डालें और 3 मिनट तक भिगोएं",
+          "bn": "চা পাতা যোগ করুন এবং ৩ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer gently",
+          "hi": "दूध डालें और धीरे से उबालें",
+          "bn": "দুধ যোগ করুন এবং আস্তে জ্বাল দিন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Strain carefully, add honey and inhale steam while drinking",
+          "hi": "सावधानी से छान लें, शहद डालें और पीते समय भाप को सूंघें",
+          "bn": "সাবধানে ছেঁকে নিন, মধু যোগ করুন এবং পান করার সময় ভাপ শ্বাস নিন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 900
+  },
+  "chamomile_chai": {
+    "name": {
+      "en": "Soothing Chamomile Chai",
+      "hi": "शांतिदायक कैमोमाइल चाय",
+      "bn": "প্রশান্তিদায়ক ক্যামোমাইল চা"
+    },
+    "description": {
+      "en": "Gentle chai with chamomile for digestive comfort and relaxation",
+      "hi": "पाचन आराम और आराम के लिए कैमोमाइल के साथ नरम चाय",
+      "bn": "হজম আরাম এবং শিথিলতার জন্য ক্যামোমাইল দিয়ে নরম চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1/2 cup milk",
+      "1 tsp black tea",
+      "2 tsp dried chamomile flowers",
+      "1 inch ginger",
+      "2 green cardamom",
+      "Honey to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush cardamom and slice ginger thinly",
+          "hi": "इलायची कुचलें और अदरक को पतला काटें",
+          "bn": "এলাচ থেঁতো করুন এবং আদা পাতলা করে কাটুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Heat water to just below boiling with spices",
+          "hi": "मसालों के साथ पानी को उबलने से थोड़ा पहले तक गर्म करें",
+          "bn": "মসলা দিয়ে পানি ফুটন্ত অবস্থার ঠিক নীচে পর্যন্ত গরম করুন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and chamomile, steep for 3 minutes",
+          "hi": "चाय पत्ती और कैमोमाइल डालें, 3 मिनट तक भिगोएं",
+          "bn": "চা পাতা এবং ক্যামোমাইল যোগ করুন, ৩ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 180,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and warm gently without boiling",
+          "hi": "दूध डालें और बिना उबाले धीरे से गर्म करें",
+          "bn": "দুধ যোগ করুন এবং না ফুটিয়ে গরম করুন"
+        },
+        "duration": 180,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Strain, add honey and sip slowly",
+          "hi": "छान लें, शहद डालें और धीरे-धीरे पिएं",
+          "bn": "ছেঁকে নিন, মধু যোগ করুন এবং আস্তে আস্তে পান করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      }
+    ],
+    "total_time": 720
+  },
+  "gentle_ginger_chai": {
+    "name": {
+      "en": "Gentle Ginger Chai",
+      "hi": "नरम अदरक चाय",
+      "bn": "নরম আদা চা"
+    },
+    "description": {
+      "en": "Mild ginger chai for sensitive stomachs and digestive comfort",
+      "hi": "संवेदनशील पेट और पाचन आराम के लिए हल्की अदरक चाय",
+      "bn": "সংবেদনশীল পেট এবং হজম আরামের জন্য হালকা আদা চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "1 tsp black tea",
+      "1 inch fresh ginger",
+      "2 green cardamom",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Slice ginger thinly (don't crush)",
+          "hi": "अदरक को पतला काटें (कुचलें नहीं)",
+          "bn": "আদা পাতলা করে কাটুন (থেঁতো করবেন না)"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Simmer water with ginger and cardamom gently",
+          "hi": "अदरक और इलायची के साथ पानी को धीरे से उबालें",
+          "bn": "আদা এবং এলাচ দিয়ে পানি আস্তে জ্বাল দিন"
+        },
+        "duration": 300,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and steep for 2 minutes",
+          "hi": "चाय पत्ती डालें और 2 मिनट तक भिगोएं",
+          "bn": "চা পাতা যোগ করুন এবং ২ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and warm through without boiling",
+          "hi": "दूध डालें और बिना उबाले गर्म करें",
+          "bn": "দুধ যোগ করুন এবং না ফুটিয়ে গরম করুন"
+        },
+        "duration": 180,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Strain carefully, sweeten lightly and serve",
+          "hi": "सावधानी से छान लें, हल्का मीठा करें और परोसें",
+          "bn": "সাবধানে ছেঁকে নিন, হালকা মিষ্টি করুন এবং পরিবেশন করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      }
+    ],
+    "total_time": 720
+  },
+  "digestive_chai": {
+    "name": {
+      "en": "Digestive Spice Chai",
+      "hi": "पाचक मसाला चाय",
+      "bn": "হজমকারী মসলা চা"
+    },
+    "description": {
+      "en": "Specially formulated chai with digestive spices for stomach comfort",
+      "hi": "पेट के आराम के लिए पाचक मसालों के साथ विशेष रूप से तैयार चाय",
+      "bn": "পেটের আরামের জন্য হজমকারী মসলা দিয়ে বিশেষভাবে তৈরি চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "1 tsp fennel seeds",
+      "1 tsp cumin seeds",
+      "1 inch ginger",
+      "3 green cardamom",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Dry roast fennel and cumin seeds until fragrant",
+          "hi": "सौंफ और जीरा को सुगंधित होने तक सूखा भूनें",
+          "bn": "মৌরি এবং জিরা সুগন্ধি না হওয়া পর্যন্ত শুকনো ভাজুন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Crush roasted seeds with ginger and cardamom",
+          "hi": "भुने हुए बीजों को अदरक और इलायची के साथ कुचलें",
+          "bn": "ভাজা বীজ আদা এবং এলাচ দিয়ে থেঁতো করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with the spice mixture",
+          "hi": "मसाले के मिश्रण के साथ पानी उबालें",
+          "bn": "মসলার মিশ্রণ দিয়ে পানি ফুটান"
+        },
+        "duration": 300,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and steep for 2-3 minutes",
+          "hi": "चाय पत्ती डालें और 2-3 मिनट तक भिगोएं",
+          "bn": "চা পাতা যোগ করুন এবং ২-৩ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 150,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk, simmer gently and serve after meals",
+          "hi": "दूध डालें, धीरे से उबालें और भोजन के बाद परोसें",
+          "bn": "দুধ যোগ করুন, আস্তে জ্বাল দিন এবং খাবারের পরে পরিবেশন করুন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      }
+    ],
+    "total_time": 870
+  },
+  "energizing_chai": {
+    "name": {
+      "en": "Energizing Spice Chai",
+      "hi": "ऊर्जावान मसाला चाय",
+      "bn": "শক্তিদায়ক মসলা চা"
+    },
+    "description": {
+      "en": "Invigorating chai with stimulating spices for energy and focus",
+      "hi": "ऊर्जा और एकाग्रता के लिए उत्तेजक मसालों के साथ जीवंत चाय",
+      "bn": "শক্তি এবং মনোযোগের জন্য উদ্দীপক মসলা দিয়ে প্রাণবন্ত চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "3 tsp strong black tea",
+      "1 inch ginger",
+      "5 black peppercorns",
+      "4 green cardamom",
+      "1 cinnamon stick",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush all spices together vigorously",
+          "hi": "सभी मसालों को एक साथ जोर से कुचलें",
+          "bn": "সব মসলা একসাথে জোরে থেঁতো করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with crushed spices at high heat",
+          "hi": "कुचले हुए मसालों के साथ पानी को तेज आंच पर उबालें",
+          "bn": "থেঁতো মসলা দিয়ে পানি উচ্চ তাপে ফুটান"
+        },
+        "duration": 360,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and brew strongly for 4 minutes",
+          "hi": "चाय पत्ती डालें और 4 मिनट तक मजबूती से बनाएं",
+          "bn": "চা পাতা যোগ করুন এবং ৪ মিনিট শক্তিশালী করে তৈরি করুন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and bring to a rolling boil twice",
+          "hi": "दूध डालें और दो बार अच्छी तरह उबालें",
+          "bn": "দুধ যোগ করুন এবং দুবার ভালো করে ফুটিয়ে নিন"
+        },
+        "duration": 300,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten well, strain and serve piping hot",
+          "hi": "अच्छी तरह मिठास डालें, छान लें और गर्म-गर्म परोसें",
+          "bn": "ভালো করে মিষ্টি করুন, ছেঁকে নিন এবং গরম গরম পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 1080
+  },
+  "black_tea_chai": {
+    "name": {
+      "en": "Pure Black Tea Chai",
+      "hi": "शुद्ध काली चाय",
+      "bn": "খাঁটি কালো চা"
+    },
+    "description": {
+      "en": "Strong and stimulating chai with premium black tea for energy",
+      "hi": "ऊर्जा के लिए प्रीमियम काली चाय के साथ मजबूत और उत्तेजक चाय",
+      "bn": "শক্তির জন্য প্রিমিয়াম কালো চা দিয়ে শক্তিশালী এবং উদ্দীপক চা"
+    },
+    "ingredients": ["2 cups water", "1 cup milk", "3 tsp premium black tea", "Sugar to taste"],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Boil water until bubbling vigorously",
+          "hi": "पानी को तब तक उबालें जब तक यह जोर से बुदबुदाने न लगे",
+          "bn": "পানি জোরে বুদবুদ না হওয়া পর্যন্ত ফুটান"
+        },
+        "duration": 240,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and brew strongly for 4 minutes",
+          "hi": "चाय पत्ती डालें और 4 मिनट तक मजबूती से बनाएं",
+          "bn": "চা পাতা যোগ করুন এবং ৪ মিনিট শক্তিশালী করে তৈরি করুন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and bring to a rolling boil",
+          "hi": "दूध डालें और अच्छी तरह उबालें",
+          "bn": "দুধ যোগ করুন এবং ভালো করে ফুটিয়ে নিন"
+        },
+        "duration": 300,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Reduce heat and simmer for 2 minutes",
+          "hi": "आंच कम करें और 2 मिनट तक उबालें",
+          "bn": "আঁচ কমিয়ে ২ মিনিট জ্বাল দিন"
+        },
+        "duration": 120,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten to taste, strain and serve hot",
+          "hi": "स्वाद के अनुसार मिठास डालें, छान लें और गर्म परोसें",
+          "bn": "স্বাদমতো মিষ্টি করুন, ছেঁকে নিন এবং গরম পরিবেশন করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      }
+    ],
+    "total_time": 960
+  },
+  "spiced_chai": {
+    "name": {
+      "en": "Richly Spiced Chai",
+      "hi": "समृद्ध मसालेदार चाय",
+      "bn": "সমৃদ্ধ মসলাদার চা"
+    },
+    "description": {
+      "en": "Deeply flavored chai with a complex blend of warming spices",
+      "hi": "गर्म मसालों के जटिल मिश्रण के साथ गहरे स्वाद वाली चाय",
+      "bn": "উষ্ণ মসলার জটিল মিশ্রণ সহ গভীর স্বাদযুক্ত চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "5 green cardamom",
+      "1 cinnamon stick",
+      "5 cloves",
+      "1 star anise",
+      "1/4 tsp nutmeg",
+      "1 inch ginger",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush all whole spices together",
+          "hi": "सभी साबुत मसालों को एक साथ कुचलें",
+          "bn": "সব গোটা মসলা একসাথে থেঁতো করুন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with all spices for 5 minutes",
+          "hi": "सभी मसालों के साथ 5 मिनट तक पानी उबालें",
+          "bn": "সব মসলা দিয়ে ৫ মিনিট পানি ফুটান"
+        },
+        "duration": 300,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and simmer for 3 minutes",
+          "hi": "चाय पत्ती डालें और 3 मिनट तक उबालें",
+          "bn": "চা পাতা যোগ করুন এবং ৩ মিনিট জ্বাল দিন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer until well infused",
+          "hi": "दूध डालें और अच्छी तरह मिलने तक उबालें",
+          "bn": "দুধ যোগ করুন এবং ভালোভাবে মিশে না যাওয়া পর্যন্ত জ্বাল দিন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten to taste, strain carefully and serve",
+          "hi": "स्वाद के अनुसार मिठास डालें, सावधानी से छान लें और परोसें",
+          "bn": "স্বাদমতো মিষ্টি করুন, সাবধানে ছেঁকে নিন এবং পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 930
+  },
+  "refreshing_chai": {
+    "name": {
+      "en": "Refreshing Mint Cardamom Chai",
+      "hi": "ताज़ा पुदीना इलायची चाय",
+      "bn": "সতেজ পুদিনা এলাচ চা"
+    },
+    "description": {
+      "en": "Cooling and refreshing chai with mint and cardamom for hot days",
+      "hi": "गर्म दिनों के लिए पुदीना और इलायची के साथ ठंडी और ताज़ा चाय",
+      "bn": "গরম দিনের জন্য পুদিনা এবং এলাচ দিয়ে শীতল এবং সতেজ চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "15-20 fresh mint leaves",
+      "6 green cardamom",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush cardamom pods and roughly tear mint leaves",
+          "hi": "इलायची को कुचलें और पुदीने के पत्तों को मोटे तौर पर फाड़ें",
+          "bn": "এলাচ থেঁতো করুন এবং পুদিনা পাতা মোটামুটি ছিঁড়ে নিন"
+        },
+        "duration": 90,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with cardamom for 3 minutes",
+          "hi": "इलायची के साथ 3 मिनट तक पानी उबालें",
+          "bn": "এলাচ দিয়ে ৩ মিনিট পানি ফুটান"
+        },
+        "duration": 180,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and half the mint, steep for 3 minutes",
+          "hi": "चाय पत्ती और आधा पुदीना डालें, 3 मिनट तक भिगोएं",
+          "bn": "চা পাতা এবং অর্ধেক পুদিনা যোগ করুন, ৩ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and remaining mint, simmer gently",
+          "hi": "दूध और बचा हुआ पुदीना डालें, धीरे से उबालें",
+          "bn": "দুধ এবং বাকি পুদিনা যোগ করুন, আস্তে জ্বাল দিন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten, strain pressing mint leaves, serve hot or cold",
+          "hi": "मिठास डालें, पुदीने के पत्तों को दबाकर छान लें, गर्म या ठंडा परोसें",
+          "bn": "মিষ্টি করুন, পুদিনা পাতা চেপে ছেঁকে নিন, গরম বা ঠান্ডা পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 780
+  },
+  "mint_cardamom_chai": {
+    "name": {
+      "en": "Mint Cardamom Chai",
+      "hi": "पुदीना इलायची चाय",
+      "bn": "পুদিনা এলাচ চা"
+    },
+    "description": {
+      "en": "Aromatic chai with fresh mint and cardamom for a refreshing experience",
+      "hi": "ताज़ा अनुभव के लिए ताजा पुदीना और इलायची के साथ सुगंधित चाय",
+      "bn": "সতেজ অভিজ্ঞতার জন্য তাজা পুদিনা এবং এলাচ দিয়ে সুগন্ধি চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "10-12 fresh mint leaves",
+      "5 green cardamom",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush cardamom pods and tear mint leaves",
+          "hi": "इलायची को कुचलें और पुदीने के पत्तों को फाड़ें",
+          "bn": "এলাচ থেঁতো করুন এবং পুদিনা পাতা ছিঁড়ে নিন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with cardamom for 3 minutes",
+          "hi": "इलायची के साथ 3 मिनट तक पानी उबालें",
+          "bn": "এলাচ দিয়ে ৩ মিনিট পানি ফুটান"
+        },
+        "duration": 180,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and mint, steep for 2 minutes",
+          "hi": "चाय पत्ती और पुदीना डालें, 2 मिनट तक भिगोएं",
+          "bn": "চা পাতা এবং পুদিনা যোগ করুন, ২ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 120,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer gently",
+          "hi": "दूध डालें और धीरे से उबालें",
+          "bn": "দুধ যোগ করুন এবং আস্তে জ্বাল দিন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten, strain and serve with a fresh mint garnish",
+          "hi": "मिठास डालें, छान लें और ताजा पुदीने की सजावट के साथ परोसें",
+          "bn": "মিষ্টি করুন, ছেঁকে নিন এবং তাজা পুদিনা দিয়ে সাজিয়ে পরিবেশন করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      }
+    ],
+    "total_time": 600
+  },
+  "green_chai": {
+    "name": {
+      "en": "Green Tea Chai",
+      "hi": "हरी चाय मसाला",
+      "bn": "সবুজ চা মসলা"
+    },
+    "description": {
+      "en": "Lighter chai made with green tea and gentle spices for antioxidant benefits",
+      "hi": "एंटीऑक्सीडेंट लाभों के लिए हरी चाय और हल्के मसालों से बनी हल्की चाय",
+      "bn": "অ্যান্টিঅক্সিডেন্ট উপকারের জন্য সবুজ চা এবং হালকা মসলা দিয়ে তৈরি হালকা চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1/2 cup milk",
+      "2 tsp green tea leaves",
+      "3 green cardamom",
+      "1/2 inch ginger",
+      "Honey to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Lightly crush cardamom and slice ginger thinly",
+          "hi": "इलायची को हल्का कुचलें और अदरक को पतला काटें",
+          "bn": "এলাচ হালকা থেঁতো করুন এবং আদা পাতলা করে কাটুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Heat water to 80°C (not boiling) with spices",
+          "hi": "मसालों के साथ पानी को 80°C तक गर्म करें (उबालें नहीं)",
+          "bn": "মসলা দিয়ে পানি ৮০°C পর্যন্ত গরম করুন (ফুটবেন না)"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add green tea leaves and steep for 2 minutes",
+          "hi": "हरी चाय पत्ती डालें और 2 मिनट तक भिगोएं",
+          "bn": "সবুজ চা পাতা যোগ করুন এবং ২ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Add warm milk (not hot) and stir gently",
+          "hi": "गर्म दूध डालें (गर्म नहीं) और धीरे से मिलाएं",
+          "bn": "গরম দুধ যোগ করুন (উত্তপ্ত নয়) এবং আস্তে মিশিয়ে নিন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Strain, add honey and serve immediately",
+          "hi": "छान लें, शहद डालें और तुरंत परोसें",
+          "bn": "ছেঁকে নিন, মধু যোগ করুন এবং তৎক্ষণাৎ পরিবেশন করুন"
+        },
+        "duration": 60,
+        "heat": "low"
+      }
+    ],
+    "total_time": 540
+  },
+  "immunity_chai": {
+    "name": {
+      "en": "Immunity Booster Chai",
+      "hi": "प्रतिरक्षा बूस्टर चाय",
+      "bn": "রোগ প্রতিরোধ বুস্টার চা"
+    },
+    "description": {
+      "en": "Powerful chai blend with immune-boosting herbs and spices",
+      "hi": "प्रतिरक्षा बढ़ाने वाले जड़ी-बूटियों और मसालों के साथ शक्तिशाली चाय मिश्रण",
+      "bn": "রোগ প্রতিরোধ বাড়ানোর ভেষজ এবং মসলা দিয়ে শক্তিশালী চা মিশ্রণ"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "1 inch ginger",
+      "5 tulsi leaves",
+      "1/2 tsp turmeric",
+      "4 black peppercorns",
+      "4 green cardamom",
+      "1 cinnamon stick",
+      "Honey to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Crush all spices and tear tulsi leaves",
+          "hi": "सभी मसालों को कुचलें और तुलसी के पत्तों को फाड़ें",
+          "bn": "সব মসলা থেঁতো করুন এবং তুলসী পাতা ছিঁড়ে নিন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with all spices, tulsi and turmeric",
+          "hi": "सभी मसालों, तुलसी और हल्दी के साथ पानी उबालें",
+          "bn": "সব মসলা, তুলসী এবং হলুদ দিয়ে পানি ফুটান"
+        },
+        "duration": 360,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and simmer for 3 minutes",
+          "hi": "चाय पत्ती डालें और 3 मिनट तक उबालें",
+          "bn": "চা পাতা যোগ করুন এবং ৩ মিনিট জ্বাল দিন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer until well combined",
+          "hi": "दूध डालें और अच्छी तरह मिलने तक उबालें",
+          "bn": "দুধ যোগ করুন এবং ভালোভাবে মিশে না যাওয়া পর্যন্ত জ্বাল দিন"
+        },
+        "duration": 240,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Strain, add honey and drink while hot",
+          "hi": "छान लें, शहद डालें और गर्म पिएं",
+          "bn": "ছেঁকে নিন, মধু যোগ করুন এবং গরম অবস্থায় পান করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 990
+  },
+  "holy_basil_chai": {
+    "name": {
+      "en": "Holy Basil Chai",
+      "hi": "तुलसी चाय",
+      "bn": "তুলসী চা"
+    },
+    "description": {
+      "en": "Medicinal chai with holy basil (tulsi) for respiratory health and immunity",
+      "hi": "श्वसन स्वास्थ्य और प्रतिरक्षा के लिए तुलसी के साथ औषधीय चाय",
+      "bn": "শ্বাসযন্ত্রের স্বাস্থ্য এবং রোগ প্রতিরোধের জন্য তুলসী দিয়ে ঔষধি চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1/2 cup milk",
+      "1 tsp black tea",
+      "15-20 fresh tulsi leaves",
+      "1/2 inch ginger",
+      "2 green cardamom",
+      "Honey to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Wash and tear tulsi leaves, crush cardamom",
+          "hi": "तुलसी के पत्तों को धोकर फाड़ें, इलायची कुचलें",
+          "bn": "তুলসী পাতা ধুয়ে ছিঁড়ে নিন, এলাচ থেঁতো করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with tulsi, ginger and cardamom",
+          "hi": "तुलसी, अदरक और इलायची के साथ पानी उबालें",
+          "bn": "তুলসী, আদা এবং এলাচ দিয়ে পানি ফুটান"
+        },
+        "duration": 300,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and steep for 2 minutes",
+          "hi": "चाय पत्ती डालें और 2 मिनट तक भिगोएं",
+          "bn": "চা পাতা যোগ করুন এবং ২ মিনিট ভিজিয়ে রাখুন"
+        },
+        "duration": 120,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer gently",
+          "hi": "दूध डालें और धीरे से उबालें",
+          "bn": "দুধ যোগ করুন এবং আস্তে জ্বাল দিন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Strain, add honey and sip slowly for maximum benefit",
+          "hi": "छान लें, शहद डालें और अधिकतम लाभ के लिए धीरे-धीरे पिएं",
+          "bn": "ছেঁকে নিন, মধু যোগ করুন এবং সর্বোচ্চ উপকারের জন্য আস্তে আস্তে পান করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 780
+  },
+  "warming_chai": {
+    "name": {
+      "en": "Warming Winter Chai",
+      "hi": "गर्म सर्दी की चाय",
+      "bn": "উষ্ণ শীতের চা"
+    },
+    "description": {
+      "en": "Deeply warming chai with heating spices perfect for cold winter days",
+      "hi": "ठंडे सर्दी के दिनों के लिए बेहतरीन गर्म मसालों के साथ गहरी गर्म चाय",
+      "bn": "ঠান্ডা শীতের দিনের জন্য উপযুক্ত উষ্ণ মসলা দিয়ে গভীরভাবে উষ্ণ চা"
+    },
+    "ingredients": [
+      "2 cups water",
+      "1 cup milk",
+      "2 tsp black tea",
+      "2 inch ginger",
+      "1 cinnamon stick",
+      "6 cloves",
+      "5 black peppercorns",
+      "4 green cardamom",
+      "1/4 tsp nutmeg",
+      "Sugar to taste"
+    ],
+    "steps": [
+      {
+        "instruction": {
+          "en": "Pound ginger and crush all spices together",
+          "hi": "अदरक को कूटें और सभी मसालों को एक साथ कुचलें",
+          "bn": "আদা পিষুন এবং সব মসলা একসাথে থেঁতো করুন"
+        },
+        "duration": 120,
+        "heat": "low"
+      },
+      {
+        "instruction": {
+          "en": "Boil water with all spices for 6 minutes",
+          "hi": "सभी मसालों के साथ 6 मिनट तक पानी उबालें",
+          "bn": "সব মসলা দিয়ে ৬ মিনিট পানি ফুটান"
+        },
+        "duration": 360,
+        "heat": "high"
+      },
+      {
+        "instruction": {
+          "en": "Add tea leaves and brew strongly for 3 minutes",
+          "hi": "चाय पत्ती डालें और 3 मिनट तक मजबूती से बनाएं",
+          "bn": "চা পাতা যোগ করুন এবং ৩ মিনিট শক্তিশালী করে তৈরি করুন"
+        },
+        "duration": 180,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Add milk and simmer until rich and creamy",
+          "hi": "दूध डालें और तब तक उबालें जब तक समृद्ध और मलाईदार न हो जाए",
+          "bn": "দুধ যোগ করুন এবং সমৃদ্ধ এবং ক্রিমি না হওয়া পর্যন্ত জ্বাল দিন"
+        },
+        "duration": 300,
+        "heat": "medium"
+      },
+      {
+        "instruction": {
+          "en": "Sweeten well, strain and serve steaming hot",
+          "hi": "अच्छी तरह मिठास डালें, छान लें और भाप के साथ गर्म परोसें",
+          "bn": "ভালো করে মিষ্টি করুন, ছেঁকে নিন এবং বাষ্প সহ গরম পরিবেশন করুন"
+        },
+        "duration": 90,
+        "heat": "low"
+      }
+    ],
+    "total_time": 1050
+  }
+}
