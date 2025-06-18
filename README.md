@@ -4,7 +4,7 @@
 ### *Your Personal Chai Companion*
 #### https://teabuddy.streamlit.app/ 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://teabuddy.streamlit.app/ )
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 
 *A multilingual web application that crafts personalized chai recipes based on your mood and health, featuring interactive step-by-step cooking guidance.*
